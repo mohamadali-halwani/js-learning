@@ -328,15 +328,105 @@ console.log(amount2);
 //#############################################################################
 //##############################IF STATEMENTS##################################
 //#############################################################################
+
+
+
 /*
-let apples= 34;
-let hotdogs= 24;
-// comparing :
-// ==
+// Signs in comparing :
+// ===
+// !==
 // > <
-// !=
 // <=
 // >=
+
+
+
+//We use 3 equal signs in comparison, as one equal sign is used to assign a value
+let numba= 5;
+if(5 === numba){
+  console.log(`yes`);
+}
+
+
+//we replace one equal sign with an excalmation mark in case we want the condition
+// to be false or not fulfilled
+let state= `Wu`, taxPercent= 8;
+if (state === `CAl`) {
+  taxPercent= taxPercent *2;
+  console.log(taxPercent); //16
+}else if (state === `WA`){
+  taxPercent*=5;
+  console.log(taxPercent); //40
+}else{
+  taxPercent-=1;
+  console.log(taxPercent); //7
+}
+
+
+
+//When we compare two decimal numbers, it is necessary to round the result because
+//Javascript does not give the exact result as it uses inaccurate floating point
+//numbers, and thus the need to round.
+
+let numberr= 1.2+1.6;
+if ( +(1.3+1.1).toFixed(2) === 2.4) {
+  //adding a plus sign before the parenthesis converts the string to a number
+  console.log(`success`); //2.4
+  
+}else{
+  console.log(`fail`);    //2.400000004
+}
+
+
+
+//It is the best practice to use three equal signs in comparing.
+//Three equal signs can be read as "strictly equal to", so the types of 
+//what you are comparing must be the same.
+
+let no = 1;
+let nono="1";
+
+if (no === nono) {
+  console.log(`mission failed`); //Because they can't be equals in this case
+}else{
+  console.log(`mission accomplished`);  //because they are of different types
+}
+
+
+
+//Whereas using two equal signs is not strict enough in all cases, so if you are
+//comparing a string and a number, it would convert the string to a number. That
+//makes the 2 side equals. A case that is not desirable when comparing different
+// types of variables or data.
+
+let yes = 1;
+let yesyes="1";
+
+if (yes == yesyes) {
+  console.log(`mission was done successfully`); //they turned out to be equal 
+  //because the string was converted to a number.
+}else{
+  console.log(`mission failed`);  //After convertion using the two equal signs
+  //, they must be equal
+}
+
+*/
+
+//#############################################################################
+//##########################The Ternary Operator###############################
+//#############################################################################
+
+
+let sum= 20; 
+let message = (sum<30) ? `Scarce` : `Huge`;
+console.log(message);
+
+
+
+/*
+
+let apples= 34;
+let hotdogs= 24;
 
 if (apples < hotdogs) {
   document.write("YAY AWESOME! ");
