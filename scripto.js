@@ -417,12 +417,70 @@ if (yes == yesyes) {
 //#############################################################################
 
 //It is called "Ternary" because it deals with three sides
-//The first is the 
+//The first is the condition, then the true statement, and lastly, the false one.
+
+//  (condition) ? true-statement : false-statement;
+
+/*
 let sum= 20; 
 let message = (sum<30) ? `Scarce` : `Huge`;
 console.log(message);
 //another way to do it
 let messeiji = (sum<40) ? showMessage('YOU ARE NO') : showMessage('YOU ARE YES');
+*/ 
+
+//#############################################################################
+//##########################Block Scope Using let##############################
+//#############################################################################
+
+
+/*
+//Using let and const as the best practice prevents variables of leaking out of
+//the block scope, i.e. the code contained between the two parenthesis: {} .
+
+//Block scoping means that you can't use the variable outside the block.
+//Using var will leak the variable because var is function-scoped.
+    if (true) {
+      let value1=`I'm value1 made by "let"`;
+      const value2=`I'm value2 made by "const"`;
+      var value3=`I'm value3 made by "var"`;
+      showMessage(value2); 
+    //The end of this code block
+    }
+//Outside the code block.
+console.log(value3);
+*/
+
+
+
+//#############################################################################
+//##########################Looping with for()#################################
+//#############################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*
