@@ -518,7 +518,8 @@ let count = 1;
 //#############################################################################
 
 
-
+//Writing the code inside a function helps with re-usability.
+//Functin scope vs Global scope
 
 
 
