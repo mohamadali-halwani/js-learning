@@ -416,11 +416,13 @@ if (yes == yesyes) {
 //##########################The Ternary Operator###############################
 //#############################################################################
 
-
+//It is called "Ternary" because it deals with three sides
+//The first is the 
 let sum= 20; 
 let message = (sum<30) ? `Scarce` : `Huge`;
 console.log(message);
-
+//another way to do it
+let messeiji = (sum<40) ? showMessage('YOU ARE NO') : showMessage('YOU ARE YES');
 
 
 /*
