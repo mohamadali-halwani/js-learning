@@ -458,20 +458,64 @@ console.log(value3);
 //#############################################################################
 
 
+//For the condition mentioned is met, execute the code block.
+
+/*
+    To construct a for-loop, the condition must contain the following:
+        1- A variable set by let, so it can work as the counter.
+        2- A limit to that counter variable we made, to loop the code for a 
+        pre-determined occurences.
+        3- The incrementation/decrementation, that works to fulfill the limit of 
+        the loop.
+    
+//The variable i stands for "index" or "itterator"
+
+for (let i = 0; i < 3; i++) {
+   console.log(i);
+}
+*/
+
+//#############################################################################
+//##########################Looping with while()###############################
+//#############################################################################
+
+//In while, you'll need to declare and initiate the variable before constructing
+//the loop. Also, you can't do that inside the condition brackets as we did 
+//in the previously-mentioned for-loops.
+
+/*
+let i = 4;
+
+while(i>0){
+  console.log(i);
+  i--;
+}
+
+*/
+
+
+//#############################################################################
+//##########################Looping with do while()############################
+//#############################################################################
+
+/*
+//Do while guarantees that the code will execute at least once regardless of
+//the condition because it looks at the condition after the execution.
+let count = 1;
+
+  do {
+    console.log(count);
+    count++;
+
+  } while (count < 5);
+  // 1 2 3 4 
+*/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+//#############################################################################
+//##################################Functions##################################
+//#############################################################################
 
 
 
