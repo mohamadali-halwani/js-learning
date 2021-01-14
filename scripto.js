@@ -518,6 +518,8 @@ let count = 1;
 //#############################################################################
 
 
+/*
+
 //////////////////////
 //Function Declaration
 //////////////////////
@@ -632,8 +634,19 @@ console.log(secretNum);
 ////////////////////////////////
 //Using Function to Modify Webpages
 ////////////////////////////////
- changePercentOff(30);
- showMessage(`Little high little hoe`); 
+
+
+//You can call your functions from other files and use them to deliver your 
+//desired changes to the webpage. Check utils.js for each function.
+
+  changePercentOff(30);
+  showMessage(`Little high little hoe`); 
+
+
+
+*/
+
+
 
 /*
 
