@@ -652,11 +652,79 @@ console.log(secretNum);
 //#############################################################################
 
 
+//////////////////
+//Object properties
+//////////////////
+/*
+//DOM stands for Document Object Model.
+
+//You can define an object and add properties to it
+let person = {
+  name: `John`,
+  age: 33,
+  partTime: false,
+};
+//You can refer to the properties by either this way with the dot notation:
+person[`age`]= 99;
+//or this way with the squarebracket notation :
+showMessage(person.age);
+
+
+//A symbol is a special type of variables that can be used to hide information
+let mySymbol= Symbol();
+let secretPerson = {
+  name: `الله أعلم`,
+  age: 99,
+  //we can add it as a property with squarebrackets
+  [mySymbol]: `The Secret of the secrets`
+};
+
+//Only the first property will appear here
+showMessages(secretPerson.name, secretPerson.mySymbol); 
+
+*/
+
+//////////////////
+//Object Methods
+//////////////////
 
 
 
 
 
+//Methods can go inside objects just like any other property.
+
+
+// let person = {
+//   name: `John`,
+//   age: 33,
+//   partTime: false,
+//   /* In this example, showInfo is a function inside the object as 
+//   a property, and thus called, a method. */
+//   showInfo: function infoShower(){
+//     showMessage(`I'm in showInfo`);
+//   },  
+// //You can refer to the properties inside the object within the function using: this.
+//   showName: function nameShower(){
+
+//     showMessage(this.name +` is `+ this.age);
+//   },
+// //Because it's a function, we can have a return value and parameters.
+//   showRealAge: function ageShower(realAge){
+//     showMessage(this.name + ` is ` + realAge);
+//   },
+//   salary: 5000
+// };
+// //You call methods from the object with the dot notation, just like properties.
+// person.showInfo();
+// person.showName();
+// person.showRealAge(99);
+
+// Ctrl + / to comment multiple lines
+
+////////////////////////////////////
+//Passing Objects to Functions
+////////////////////////////////////
 
 
 
