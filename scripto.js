@@ -2,7 +2,7 @@
 /*
       Table of Content:
         1-Adding Comments to your Javascript code
-        2-
+        2-Ignoring a chunk of script
         3-
         4-
         5-
@@ -10,23 +10,6 @@
         7-
 
 
-
-
-*/
-
-
-//#############################################################################
-//#####################How to tell an old browser to ignore the script#########
-//#############################################################################
-
-/*
-
-<!--
-
-your script here
-
-
-  //-->
 
 
 */
