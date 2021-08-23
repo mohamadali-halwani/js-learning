@@ -3,35 +3,13 @@
       Table of Content:
         1-Adding Comments to your Javascript code
         2-Ignoring a chunk of script
-        3-
-        4-
+        3-Including the script in HTML
+        4-Getting Feedback from console
         5-
         6-
         7-
 
-
-
-
 */
-
-//#############################################################################
-//#####################Include your script file in your html file##############
-//#############################################################################
-
-//Use this html tag to include your script in the html page
-// <script src="./script.js"></script>
-
-
-
-//#############################################################################
-//#####################Using console object####################################
-//#############################################################################
-
-
-
-//console.log("Halt! Hey there playboy!");
-
-
 
 
 //#############################################################################
