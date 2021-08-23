@@ -1,4 +1,9 @@
 # Commenting
+
+### Adding comments to your code helps you other maintainers, and other people reading your code to understand what you really mean with variables, functions, and objects.
+
+### Add as much comments as needed, but within reason of course <3
+
 ### To write a comment on one line, you simply use double forward slashes //
 
 
