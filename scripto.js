@@ -5,38 +5,9 @@
         2-Ignoring a chunk of script
         3-Including the script in HTML
         4-Getting Feedback from console
-        5-
+        5-Variables
         6-
         7-
-
-*/
-
-
-//#############################################################################
-//#####################variables###############################################
-//#############################################################################
-
-
-
-/*
-//You can declare and initialize a variable or a set of variables like this:
-let total = 149.99,
-  product = ' hiking boots',
-  discounted = true;
-
-document.write("<br/>" + "Your" + product + " has cost you" + total);
-*/
-
-
-/*
-//////////////A boolean is a variable that can be either true or false
-
-  let food = true, buncker1 = `full`, buncker2 = `empty`;
-  if(food = !true){
-    console.log(`Your buncker is `+ buncker1+ ` and you're gonna live`);
-  }else{
-    console.log(`Your buncker is `+ buncker2+ ` and you're gonna starve`);
-  }
 
 */
 
