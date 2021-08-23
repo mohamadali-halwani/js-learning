@@ -11,4 +11,7 @@
 ```
 ### To make a comment on multiple lines, you open with /* and close with */
 
-``` /* As you can see, this chunk of text is marked as a comment thanks to the opening and closing symbols in javascript. You can keep writing until you break the first line and the text will still be considered a comment, pretty cool huh? */```
+```
+/* As you can see, this chunk of text is marked as a comment thanks to the opening and closing symbols in javascript. You can keep writing until you break the first line and the text will still be considered a comment, pretty cool huh? */
+
+```
