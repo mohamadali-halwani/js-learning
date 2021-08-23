@@ -2,7 +2,7 @@
 ### To write a comment on one line, you simply use double forward slashes //
 
 
-``` 
+```javascript 
 //Some sort of code to test 
 function showMessage(message){
     document.getElementById('message').textContent= message;
