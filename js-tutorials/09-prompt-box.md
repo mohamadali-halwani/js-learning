@@ -8,4 +8,4 @@ document.write("Hello " + name);
 ```
 * The prompt takes two arguments:
     * first argument in the prompt is the text that appears 
-    ![Image of Prompt Box](../images/prompt.png)
+    ![Image of Prompt Box](./images/prompt.png)
