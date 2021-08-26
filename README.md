@@ -5,7 +5,7 @@
 
 | Table of Contents | Lesson Name |
 | ----------------- | ----------- |
-|    01  | Adding Comments To Your Javascript Code |
+|    01  | [Adding Comments To Your Javascript Code](./js-tutorials/01-commenting.md)|
 |    02  | Ignoring A Chunk Of Script |
 |    03  | Including The Script In HTML |
 |    04  | Getting Feedback From Console |
