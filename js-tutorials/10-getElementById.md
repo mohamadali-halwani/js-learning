@@ -49,7 +49,7 @@ let smack_title = "SMACKDOWN SHOW !!!"
 document.getElementById('title').innerHTML = smack_title;
 ```
 
-### We can use this information to let the user change the content of the page according to their input like we learned from the [previous lesson](./js-tutorials/09-prompt-box.md) when we used the prompt box to take the user input.
+### We can use this information to let the user change the content of the page according to their input like we learned from the [previous lesson](./09-prompt-box.md) when we used the prompt box to take the user input.
 
 #### Remember, the prompt function takes two arguments separated by a comma
 
