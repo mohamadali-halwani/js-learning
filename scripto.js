@@ -1,26 +1,18 @@
 //#############################################################################
 /*
       Table of Content:
-        1-Adding Comments to your Javascript code
-        2-Ignoring a chunk of script
-        3-Including the script in HTML
-        4-Getting Feedback from console
+        1-Adding Comments To Your Javascript Code
+        2-Ignoring A Chunk Of Script
+        3-Including The Script In HTML
+        4-Getting Feedback From Console
         5-Variables
-        6-Tips on Variables
+        6-Tips On Variables
         7-Constants
+        8-Writing Directly On The Page Instead Of The Console
+        9-Using A Prompt-Box For User Input
 
 */
 
-//#############################################################################
-//#####################Constants###############################################
-//#############################################################################
-
-/*
-*/
-
-const price = 40;
-price = 50;
-console.log(price);
 
 
 
