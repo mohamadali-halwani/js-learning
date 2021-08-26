@@ -3,6 +3,8 @@
 #### I'll be organizing the code into a good tutorial for public use as I learn.
 #### As I'm writing, I suppose you are already familiar with HTML and basic programming fundamentals.
 
+
+## Beginner Level Lessons
 | Table of Contents | Lesson Name |
 | ----------------- | ----------- |
 |    01  | [Adding Comments To Your Javascript Code](./js-tutorials/01-commenting.md)|
@@ -14,7 +16,7 @@
 |    07  | [Constants](./js-tutorials/07-constants.md) | 
 |    08  | [Writing Directly On The Page Instead Of The Console](./js-tutorials/08-document.write.md)|
 |    09  | [Using A Prompt-Box For User Input](./js-tutorials/09-prompt-box.md) |
-|    10  | Content from cell 2 |
+|    10  | [Get HTML Element By ID](./js-tutorials/10-getElementById.md) |
 |    11  | Content from cell 2 |
 |    12  | Content from cell 2 | 
 |    13  | Content from cell 2 |
