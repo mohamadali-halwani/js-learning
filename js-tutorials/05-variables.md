@@ -64,4 +64,4 @@ let food = true, buncker1 = `full`, buncker2 = `empty`;
 
 ```
 
-### Booleans are useful in conditional if statements, and we'll explain them later.
+### Booleans are useful in conditional if statements that we'll be explaining later.

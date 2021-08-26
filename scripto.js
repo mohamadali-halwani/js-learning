@@ -6,8 +6,8 @@
         3-Including the script in HTML
         4-Getting Feedback from console
         5-Variables
-        6-
-        7-
+        6-Tips on Variables
+        7-Constants
 
 */
 
