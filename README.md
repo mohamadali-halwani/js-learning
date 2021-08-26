@@ -3,8 +3,8 @@
 #### I'll be organizing the code into a good tutorial for public use as I learn.
 #### As I'm writing, I suppose you are already familiar with HTML and basic programming fundamentals.
 
-Lessons | Lesson name
-------- | ------------------------------------------------------
+List of Lessons | Lesson Name
+------------ | -------------
     01  | Adding Comments To Your Javascript Code
     02  | Ignoring A Chunk Of Script
     03  | Including The Script In HTML
