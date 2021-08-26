@@ -16,30 +16,12 @@
 //#############################################################################
 
 /*
-//You must initialize constants when declaring them
+*/
+
 const price = 40;
-document.write("Your price is: " + price);
-*/
+price = 50;
+console.log(price);
 
-
-
-//#############################################################################
-//#####################Tips on Variables#######################################
-//#############################################################################
-
-/*
-
-1-Var does not give you errors as it is outdated You should not use the variable
- before initializing it
-2-To whipe out the value of a certain variable, make it equals null
-
-      let varo = 55;
-      varo = null;
-      console.log(varo);
-
-3-An Undefined variable is variable that was declared but not initialized
-
-*/
 
 
 //#############################################################################
