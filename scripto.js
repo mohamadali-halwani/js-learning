@@ -14,7 +14,8 @@
         11-Math Operations
         12-String Manipulation
         13-Functions
-
+        14-Setting Intervals
+        15-Setting Timeout
         .
         .
         .
@@ -31,9 +32,13 @@ document.write(typeof hanzo);
 ```
 
         */
-
-
-
+let variable={
+  name:'john',
+  age:25,
+  height:190
+  };
+  variable.prototype.salary = 2000;
+  console.log(variable.name + variable.age + variable.height + variable.salary);
 
 //#############################################################################
 //############setting intervals################################################
@@ -76,80 +81,7 @@ setInterval(doSomething, 1000);
 
 
 
-//#############################################################################
-//##############################String manipulation############################
-//#############################################################################
 
-/*
-//Using backticks `` to deal with strings gives you the ability to do 
-//          Interpolation
-
-let personName = 'samsano';
-let mamamia = `Hello ${personName}`;
-// using backticks also allows you to put spaces inside the string 
-//without getting them printed out
-//but the spaces will show exactly as they are in the console
-let mamamio = `Hello ${personName}`;
-console.log(mamamia);
-console.log(mamamio);
-*/
-
-//You can use addition on strings
-/*
-let salutation = `Hello `;
-salutation = salutation + `People`;
-console.log(salutation);
-*/
-
-
-//////////////////////example string manipulating methods
-/*
-
-let salutation = `Hello `;
-
-salutation = salutation.toLowerCase();
-console.log(salutation);
-
-salutation = salutation.substring(1);
-console.log(salutation);
-
-salutation = salutation.toUpperCase();
-console.log(salutation);
-
-salutation = salutation.toLocaleLowerCase(); //takes difference in locales
-//(languages) into account
-console.log(salutation);
-
-*/
-
-
-//////////////////////example string properties
-
-
-/*
-let salutation = `Hello `;
-
-salutation = salutation.length;
-console.log(salutation);
-
-salutation = `Hello `;
-console.log(typeof salutation);
-*/
-
-//////////////////////example strings and numbers
-
-/*
-//number to string
-let amount = 123;
-amount = amount.toString();
-console.log(`The type of your variable is: ` + typeof amount);
-
-
-//string to number
-let amount2 = `123.12`;
-amount2 = Number.parseFloat(amount2);
-console.log(amount2);
-*/
 
 
 //#############################################################################

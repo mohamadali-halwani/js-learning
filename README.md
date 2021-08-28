@@ -17,8 +17,8 @@
 |    08  | [Writing Directly On The Page Instead Of The Console](./js-tutorials/08-document.write.md)|
 |    09  | [Using A Prompt-Box For User Input](./js-tutorials/09-prompt-box.md) |
 |    10  | [Get HTML Element By ID](./js-tutorials/10-getElementById.md) |
-|    11  | Place Holder For the next lesson |
-|    12  | Place Holder For the next lesson | 
+|    11  | [Math Operations](./js-tutorials/11-math.md) |
+|    12  | [String Manipulation](./js-tutorials/12-string-manipulation.md) | 
 |    13  | Place Holder For the next lesson |
 |    14  | Place Holder For the next lesson |
 |    15  | Place Holder For the next lesson |
