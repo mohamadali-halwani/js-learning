@@ -17,14 +17,14 @@
 |    08  | [Writing Directly On The Page Instead Of The Console](./js-tutorials/08-document.write.md)|
 |    09  | [Using A Prompt-Box For User Input](./js-tutorials/09-prompt-box.md) |
 |    10  | [Get HTML Element By ID](./js-tutorials/10-getElementById.md) |
-|    11  | Content from cell 2 |
-|    12  | Content from cell 2 | 
-|    13  | Content from cell 2 |
-|    14  | Content from cell 2 |
-|    15  | Content from cell 2 |
-|    16  | Content from cell 2 |
-|    17  | Content from cell 2 |
-|    18  | Content from cell 2 |
-|    19  | Content from cell 2 |
-|    20  | Content from cell 2 |
-|    21  | Content from cell 2 |
+|    11  | Place Holder For the next lesson |
+|    12  | Place Holder For the next lesson | 
+|    13  | Place Holder For the next lesson |
+|    14  | Place Holder For the next lesson |
+|    15  | Place Holder For the next lesson |
+|    16  | Place Holder For the next lesson |
+|    17  | Place Holder For the next lesson |
+|    18  | Place Holder For the next lesson |
+|    19  | Place Holder For the next lesson |
+|    20  | Place Holder For the next lesson |
+|    21  | Place Holder For the next lesson |

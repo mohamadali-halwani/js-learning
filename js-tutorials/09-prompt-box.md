@@ -12,7 +12,7 @@ document.write("Hello " + name);
 
     ![Image of Prompt Box](./images/prompt.png)
 
-### Then The output is displayed on the page, let's say that my name is Hanzo Hatori
+### Then The output is displayed on the page, let's say that my name is `Hanzo Hatori`
 ### My name will appear on the page when I type it:
 
 

@@ -11,15 +11,27 @@
         8-Writing Directly On The Page Instead Of The Console
         9-Using A Prompt-Box For User Input
         10-Get Element By ID
-        11-
-        12-
+        11-Math Operations
+        12-String Manipulation
+        13-Functions
 
         .
         .
         .
         50-
 
-*/
+
+
+
+### You can use the operator typeof to get the type of the variable
+
+```javascript
+
+document.write(typeof hanzo);
+```
+
+        */
+
 
 
 
@@ -65,38 +77,6 @@ setInterval(doSomething, 1000);
 
 
 //#############################################################################
-//#######################Math Operations#######################################
-//#############################################################################
-
-//Math operators follow the mathematic rules of precedence 
-//which means parenthesis first(grouping) then expotentiation, multiplication
-// & division, incrementing and decrementing..etc
-
-/*
-
-let shop =(5* (66-1) + (5/5) + (5*6) - 2^4);
-  console.log(shop);
-
-
-let chop = 788;
-chop++;
-  document.write(chop); */
-/*
-  let ali = 25;
-  ali += 25;    //or ali = ali + 25;
-  ali /=4;
-  ali*=5;
-  ali = ali % 4;
-  document.write(ali);
-
-  // You can use the operator typeof to get the type of the variable
-
-  document.write(typeof ali);
-
-
-*/
-
-//#############################################################################
 //##############################String manipulation############################
 //#############################################################################
 
@@ -109,11 +89,7 @@ let mamamia = `Hello ${personName}`;
 // using backticks also allows you to put spaces inside the string 
 //without getting them printed out
 //but the spaces will show exactly as they are in the console
-let mamamio = `Hello 
-
-
-
-${personName}`;
+let mamamio = `Hello ${personName}`;
 console.log(mamamia);
 console.log(mamamio);
 */
@@ -376,8 +352,6 @@ let count = 1;
   } while (count < 5);
   // 1 2 3 4 
 */
-
-
 
 //#############################################################################
 //##################################Functions##################################
