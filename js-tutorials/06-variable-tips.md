@@ -11,3 +11,6 @@
       console.log(variable);
 ```
 * An Undefined variable is variable that was declared but not initialized
+
+
+[Previous Lesson<](./js-tutorials/05-variables.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/07-constants.md)

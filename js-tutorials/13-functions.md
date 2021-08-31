@@ -130,3 +130,6 @@ console.log(secretNum);
 
 
 ```
+
+
+[Previous Lesson<](./js-tutorials/12-string-manipulation.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/13-functions.md)

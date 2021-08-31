@@ -84,3 +84,6 @@ document.getElementById('s-title').innerHTML = smack_title;
 
 
 ### We're now interacting with the webpage with the tools we learned so far ^_^
+
+
+[Previous Lesson<](./js-tutorials/09-prompt-box.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/11-math.md)

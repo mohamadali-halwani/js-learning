@@ -65,3 +65,5 @@ let food = true, buncker1 = `full`, buncker2 = `empty`;
 ```
 
 ### Booleans are useful in conditional if statements that we'll be explaining later.
+
+[Previous Lesson](./js-tutorials/04-console-feedback.md)`_____________________________________________________________________________________`[Next Lesson](./js-tutorials/06-variable-tips.md)

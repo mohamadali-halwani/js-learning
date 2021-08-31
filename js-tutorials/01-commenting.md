@@ -37,3 +37,5 @@ symbols in javascript. You can keep writing until you break the first line and t
 still be considered a comment, pretty cool huh? */
 
 ```
+
+[Next Lesson](./js-tutorials/02-ignore-script.md)

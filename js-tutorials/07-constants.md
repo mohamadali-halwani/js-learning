@@ -22,3 +22,5 @@ console.log(price);
 `Uncaught TypeError: invalid assignment to const 'price'`
 
 ### So make sure that you only initialize the constant once.
+
+[Previous Lesson<](./js-tutorials/06-variable-tips.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/08-document.write.md)

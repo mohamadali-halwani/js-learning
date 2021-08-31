@@ -31,14 +31,14 @@
 document.write(typeof hanzo);
 ```
 
-        */
 let variable={
   name:'john',
   age:25,
   height:190
   };
-  variable.prototype.salary = 2000;
-  console.log(variable.name + variable.age + variable.height + variable.salary);
+  console.log(variable.name + variable.age + variable.height);
+        */
+
 
 //#############################################################################
 //############setting intervals################################################
