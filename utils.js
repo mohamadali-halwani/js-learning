@@ -2,7 +2,7 @@
 //A list of functions to use
 //object.method.property= content;
 function showMessage(message){
-    document.getElementById('message').textContent= message;
+    document.getElementById('messeji').textContent= message;
 }
 
 function showMessages(message, anotherMessage){

@@ -40,6 +40,30 @@ let variable={
         */
 
 
+  let key = 42;
+
+  function getSecretNum(value){
+  
+    //Nesting a function inside getSecretNum
+    let keyGenerator = function(){
+      let key = 12;
+      console.log(`in keyGenerator key's value is`, key); // 12
+      return key;
+    }
+  
+  
+    let num = value * keyGenerator();
+    //When a function finishes executing, all its local variables disappear
+    console.log(`in getSecretNum key's value is`, key); // 42
+    return num;
+  }
+  let secretNum = getSecretNum(3);
+  console.log(secretNum);
+  
+
+
+
+
 //#############################################################################
 //############setting intervals################################################
 //#############################################################################
