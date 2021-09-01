@@ -116,4 +116,4 @@ console.log(salutation);
 
 [For more reading](https://dmitripavlutin.com/string-interpolation-in-javascript/#4-best-practices) 
 
-[Previous Lesson<](./js-tutorials/11-math.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/13-functions.md)
+[Previous Lesson<](11-math.md)`___________________________________________________________________________________`[>Next Lesson](13-functions.md)

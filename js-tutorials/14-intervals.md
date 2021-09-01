@@ -15,4 +15,4 @@ setInterval(doSomething, 1000);
 
 ```
 
-[Previous Lesson<](./js-tutorials/13-functions.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/15-objects.md)
+[Previous Lesson<](13-functions.md)`___________________________________________________________________________________`[>Next Lesson](15-objects.md)

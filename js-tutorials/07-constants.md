@@ -23,4 +23,4 @@ console.log(price);
 
 ### So make sure that you only initialize the constant once.
 
-[Previous Lesson<](./js-tutorials/06-variable-tips.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/08-document.write.md)
+[Previous Lesson<](06-variable-tips.md)`___________________________________________________________________________________`[>Next Lesson](08-document.write.md)

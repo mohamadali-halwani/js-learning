@@ -38,4 +38,4 @@ still be considered a comment, pretty cool huh? */
 
 ```
 
-[Next Lesson](./js-tutorials/02-ignore-script.md)
+[Next Lesson](02-ignore-script.md)

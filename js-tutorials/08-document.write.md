@@ -43,4 +43,4 @@ document.write(website_name);
 ### We'll use `document.write()` later to modify webpages in a better, more interactive, and more efficient way <3
 
 
-[Previous Lesson<](./js-tutorials/07-constants.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/09-prompt-box.md)
+[Previous Lesson<](07-constants.md)`___________________________________________________________________________________`[>Next Lesson](09-prompt-box.md)

@@ -19,4 +19,4 @@ function timespacedate(){
 
 ```
 
-[Previous Lesson<](./js-tutorials/14-intervals.md)`___________________________________________________________________________________`[>Next Lesson]()
+[Previous Lesson<](14-intervals.md)`___________________________________________________________________________________`[>Next Lesson]()

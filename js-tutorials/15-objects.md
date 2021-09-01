@@ -12,4 +12,4 @@ let person = {
     console.log(`Hi ${person.firstName} ${person.lastName}` );
 ```
 
-[Previous Lesson<](./js-tutorials/14-intervals.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/16-date.md)
+[Previous Lesson<](14-intervals.md)`___________________________________________________________________________________`[>Next Lesson](16-date.md)

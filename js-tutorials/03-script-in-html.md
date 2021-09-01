@@ -27,4 +27,4 @@
 ### You can use the dot and the slash ./ to point to the current directory, two dots and a slash for the previous directory ../ and the forward slash alone for the next directory / 
 
 
-[Previous Lesson](./js-tutorials/02-ignore-script.md)`_____________________________________________________________________________________`[Next Lesson](./js-tutorials/04-console-feedback.md)
+[Previous Lesson](02-ignore-script.md)`_____________________________________________________________________________________`[Next Lesson](04-console-feedback.md)

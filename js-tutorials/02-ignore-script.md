@@ -18,4 +18,4 @@ your script here
 ```
 
 
-[Previous Lesson](./js-tutorials/01-commenting.md)`_____________________________________________________________________________________`[Next Lesson](./js-tutorials/03-script-in-html.md)
+[Previous Lesson](01-commenting.md)`_____________________________________________________________________________________`[Next Lesson](03-script-in-html.md)

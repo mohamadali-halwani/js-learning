@@ -78,4 +78,4 @@ let food = true, buncker1 = `full`, buncker2 = `empty`;
 
 
 
-[Previous Lesson](./js-tutorials/04-console-feedback.md)`_____________________________________________________________________________________`[Next Lesson](./js-tutorials/06-variable-tips.md)
+[Previous Lesson](04-console-feedback.md)`_____________________________________________________________________________________`[Next Lesson](06-variable-tips.md)

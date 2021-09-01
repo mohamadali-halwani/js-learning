@@ -19,4 +19,4 @@ document.write("Hello " + name);
 ![Image of Prompt Box](./images/prompt-output.png)
 
 
-[Previous Lesson<](./js-tutorials/08-document.write.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/10-getElementById.md)
+[Previous Lesson<](08-document.write.md)`___________________________________________________________________________________`[>Next Lesson](10-getElementById.md)

@@ -56,4 +56,4 @@ chop--;
 |-- 	  |Decrement|
 
 
-[Previous Lesson<](./js-tutorials/10-getElementById.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/12-string-manipulation.md)
+[Previous Lesson<](10-getElementById.md)`___________________________________________________________________________________`[>Next Lesson](12-string-manipulation.md)

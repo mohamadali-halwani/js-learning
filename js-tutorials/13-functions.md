@@ -120,4 +120,4 @@ console.log(secretCode);
 ```
 
 
-[Previous Lesson<](./js-tutorials/12-string-manipulation.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/14-intervals.md)
+[Previous Lesson<](12-string-manipulation.md)`___________________________________________________________________________________`[>Next Lesson](14-intervals.md)

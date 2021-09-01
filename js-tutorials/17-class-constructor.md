@@ -4,4 +4,4 @@
 
 
 
-[Previous Lesson<](./js-tutorials/16-date.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/18-timeout.md)
+[Previous Lesson<](16-date.md)`___________________________________________________________________________________`[>Next Lesson](18-timeout.md)
