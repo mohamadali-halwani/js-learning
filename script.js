@@ -38,45 +38,7 @@ let variable={
   };
   console.log(variable.name + variable.age + variable.height);
         */
-
-
-  let key = 42;
-
-  function getSecretNum(value){
   
-    //Nesting a function inside getSecretNum
-    let keyGenerator = function(){
-      let key = 12;
-      console.log(`in keyGenerator key's value is`, key); // 12
-      return key;
-    }
-  
-  
-    let num = value * keyGenerator();
-    //When a function finishes executing, all its local variables disappear
-    console.log(`in getSecretNum key's value is`, key); // 42
-    return num;
-  }
-  let secretNum = getSecretNum(3);
-  console.log(secretNum);
-  
-
-
-
-
-//#############################################################################
-//############setting intervals################################################
-//#############################################################################
-
-/*
-function doSomething(){
-
-  document.write("Hi there brozo");
-  document.write("<br/>");
-
-}
-setInterval(doSomething, 1000);
-*/
 
 //#############################################################################
 //####################setting Timeout##########################################
@@ -89,13 +51,11 @@ setInterval(doSomething, 1000);
 //it differs from setInterval in its property in executing the code only once
 //while evaluating and changing its value on demand
 
-//in html, put : The Time is: <br> <span id="salami"></span>
-
   window.onload= function(){timespacedate();}
 
   function timespacedate(){
     let taimu = new Date();
-    document.getElementById('salami').innerHTML= taimu;
+    document.getElementById('www').innerHTML= taimu;
     setTimeout(function(){timespacedate()} , 1000);
 
   }
@@ -114,13 +74,7 @@ setInterval(doSomething, 1000);
 
 
 /*
-//Each object can hold many properties specified as follows
-  let person = {
-    firstName: `John`,
-    lastName: `Luke`
-  };
 
-  console.log(`${`Hi ` + person.firstName} ${person.lastName}`);
 */
 
 //#############################################################################
@@ -128,8 +82,8 @@ setInterval(doSomething, 1000);
 //#############################################################################
 
 
-
 /*
+
 // Signs in comparing :
 // ===
 // !==
@@ -160,12 +114,12 @@ if (state === `CAl`) {
   console.log(taxPercent); //7
 }
 
-
+*/
 
 //When we compare two decimal numbers, it is necessary to round the result because
 //Javascript does not give the exact result as it uses inaccurate floating point
 //numbers, and thus the need to round.
-
+/*
 let numberr= 1.2+1.6;
 if ( +(1.3+1.1).toFixed(2) === 2.4) {
   //adding a plus sign before the parenthesis converts the string to a number
@@ -175,40 +129,41 @@ if ( +(1.3+1.1).toFixed(2) === 2.4) {
   console.log(`fail`);    //2.400000004
 }
 
-
+*/
 
 //It is the best practice to use three equal signs in comparing.
 //Three equal signs can be read as "strictly equal to", so the types of 
 //what you are comparing must be the same.
 
+/*
 let no = 1;
 let nono="1";
 
 if (no === nono) {
-  console.log(`mission failed`); //Because they can't be equals in this case
+  console.log(`mission failed, they can't be equals`); //Because they can't be equals in this case
 }else{
-  console.log(`mission accomplished`);  //because they are of different types
+  console.log(`mission accomplished, they are of different types`);  //because they are of different types
 }
 
-
+*/
 
 //Whereas using two equal signs is not strict enough in all cases, so if you are
 //comparing a string and a number, it would convert the string to a number. That
 //makes the 2 side equals. A case that is not desirable when comparing different
 // types of variables or data.
-
+/*
 let yes = 1;
 let yesyes="1";
 
 if (yes == yesyes) {
-  console.log(`mission was done successfully`); //they turned out to be equal 
+  console.log(`mission was done successfully(string converted)`); //they turned out to be equal 
   //because the string was converted to a number.
 }else{
-  console.log(`mission failed`);  //After convertion using the two equal signs
+  console.log(`mission failed (string was not converted)`);  //After convertion using the two equal signs
   //, they must be equal
 }
-
 */
+
 
 //#############################################################################
 //##########################The Ternary Operator###############################
@@ -266,13 +221,14 @@ console.log(value3);
         3- The incrementation/decrementation, that works to fulfill the limit of 
         the loop.
     
+*/ /*
 //The variable i stands for "index" or "itterator"
 
 for (let i = 0; i < 3; i++) {
    console.log(i);
 }
-*/
 
+*/
 //#############################################################################
 //##########################Looping with while()###############################
 //#############################################################################
@@ -313,7 +269,6 @@ let count = 1;
 //##################################Functions##################################
 //#############################################################################
 
-
 /*
 
 //////////////////////
@@ -351,7 +306,7 @@ let func = function funkyFunction(){
 func();
 
 
-
+/*
 //////////////////////////////////
 //Passing Informtion to Functions
 //////////////////////////////////
@@ -392,8 +347,7 @@ function getSecretCode(value){
   code = value * 42;
     return code;
 }
-let secretCode = getSecretCode(prompt("insert your number"
-,"Number goes here fella"));
+let secretCode = getSecretCode(prompt("insert your number" ,"Number goes here fella"));
 
 console.log(secretCode);
 

@@ -20,11 +20,11 @@
 |    11  | [Math Operations](./js-tutorials/11-math.md) |
 |    12  | [String Manipulation](./js-tutorials/12-string-manipulation.md) | 
 |    13  | [Functions](./js-tutorials/13-functions.md) |
-|    14  | Place Holder For the next lesson |
-|    15  | Place Holder For the next lesson |
-|    16  | Place Holder For the next lesson |
-|    17  | Place Holder For the next lesson |
-|    18  | Place Holder For the next lesson |
-|    19  | Place Holder For the next lesson |
-|    20  | Place Holder For the next lesson |
-|    21  | Place Holder For the next lesson |
+|    14  | [Intervals](./js-tutorials/14-intervals.md) |
+|    15  | [Object variables](./js-tutorials/15-objects.md) |
+|    16  | [Date Object](./js-tutorials/16-date.md) |
+|    17  | [Classes and Constructors](./js-tutorials/17-class-constructor.md) |
+|    18  | [Timeout Function](./js-tutorials/18-timeout.md) |
+|    19  | [Functions](./js-tutorials/13-functions.md) |
+|    20  | [Functions](./js-tutorials/13-functions.md) |
+|    21  | [Functions](./js-tutorials/13-functions.md) |

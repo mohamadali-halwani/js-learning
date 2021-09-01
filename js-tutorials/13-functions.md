@@ -107,11 +107,11 @@ function getSecretCode(value){
   code = value * 42;
     return code;
 }
-let secretCode = getSecretCode(prompt("insert your number"
-,"Number goes here fella"));
+let secretCode = getSecretCode(prompt("insert your number" ,"Number goes here fella"));
 
 console.log(secretCode);
 ```
+
 ### You can call your functions from other files and use them to deliver your desired changes to the webpage. Check [utils.js](../utils.js) for each function.
 
 ```javascript
@@ -120,4 +120,4 @@ console.log(secretCode);
 ```
 
 
-[Previous Lesson<](./js-tutorials/12-string-manipulation.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/13-functions.md)
+[Previous Lesson<](./js-tutorials/12-string-manipulation.md)`___________________________________________________________________________________`[>Next Lesson](./js-tutorials/14-intervals.md)
